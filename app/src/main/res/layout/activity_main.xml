@@ -111,8 +111,8 @@
             android:id="@+id/continueButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="Continue"
-            android:text="Continue" />
+            android:onClick="startOver"
+            android:text="Restart" />
 
     </LinearLayout>
 

@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
             nextImage();
         }
     }
-    public void Continue(View view){
+    public void startOver(View view){
         score.setVisibility(View.VISIBLE);
         gameOver.setVisibility(View.INVISIBLE);
         option1.setVisibility(View.VISIBLE);
